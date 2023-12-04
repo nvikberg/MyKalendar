@@ -18,6 +18,7 @@ public class MyFrame extends JFrame implements ActionListener {
     JTextField textField1, textField2, textField3, textField4, textField5, textField6, textField7;
     JPanel panel1, panel2, panel3, panel4, panel5, panel6, panel7;
     ImageIcon image = new ImageIcon("icons8-lotus-48.png");  //create image icon to use in frame and more
+    //hello
 
     MyFrame() { //Constructor for My Frame
 
